@@ -1,0 +1,5 @@
+learn_small:
+    resource: "@learnSmallBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
